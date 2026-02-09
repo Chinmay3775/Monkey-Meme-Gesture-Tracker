@@ -1,6 +1,6 @@
-import cv2
-import mediapipe as mp
-import numpy as np
+import cv2 # type: ignore
+import mediapipe as mp # type: ignore
+import numpy as np # type: ignore
 import os
 
 # -----------------------------
